@@ -32,7 +32,7 @@ Développer une plateforme permettant aux utilisateurs de soumettre du code Pyth
 - Membre 4 : documentation & gestion GitHub
 
 📦 Livrables attendus : 
-     - Dépôt GitHub structuré (Code source versionné)
-     - Wiki Documentation projet 
-     - Rapport technique PDF
-     - Journal de commits
+         - Dépôt GitHub structuré (Code source versionné)
+         - Wiki Documentation projet 
+         - Rapport technique PDF
+         - Journal de commits
