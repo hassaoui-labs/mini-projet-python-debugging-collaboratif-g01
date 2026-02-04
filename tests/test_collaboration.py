@@ -11,15 +11,15 @@ def test_register_collaborator(manager):
     assert len(users) == 1
 
 def test_log_correction(manager):
-    manager.register_collaborator("Alice")
-    fix = manager.log_correction("Alice", "SyntaxError", "Ajout de deux-points")
-    assert fix["user"] == "Alice"
+    manager.register_collaborator("Ilyes")
+    fix = manager.log_correction("Ilyes", "SyntaxError", "Ajout de deux-points")
+    assert fix["user"] == "Ilyes"
     assert fix["error_fixed"] == "SyntaxError"
     assert len(manager.correction_history) == 1
 
 def test_session_summary(manager):
-    manager.register_collaborator("Membre2")
-    manager.log_correction("Membre2", "NameError", "Variable définie")
+    manager.register_collaborator("Faical")
+    manager.log_correction("Faical", "NameError", "Variable définie")
     summary = manager.get_session_summary()
     assert summary["total_collaborators"] == 1
     assert summary["total_fixes"] == 1
