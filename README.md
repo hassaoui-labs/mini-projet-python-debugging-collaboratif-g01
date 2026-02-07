@@ -5,10 +5,10 @@
 
 ## 👨‍🎓 Équipe
 
-- **Sofiane** - Module 1: Moteur d'exécution ✅
-- **Ilyes** - Module 2: Debugging ⏳
-- **Faiçal** - Module 3: Collaboration ⏳
-- **Abderrahmane** - Module 4: Documentation & GitHub ⏳
+- **Sofiane** - Module 1: Moteur d'exécution 
+- **Ilyes** - Module 2: Debugging 
+- **Faiçal** - Module 3: Collaboration 
+- **Abderrahmane** - Module 4: Documentation & GitHub 
 
 ---
 ## 📊 Progression du projet
