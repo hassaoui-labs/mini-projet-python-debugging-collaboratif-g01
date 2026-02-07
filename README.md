@@ -128,13 +128,13 @@ flake8 src/ tests/
 | Moteur d'exécution | ████████████ 100% | 28/01/2026 - Sofiane |
 | Module debugging | ░░░░░░░░░░░░ 0% | - |
 | Collaboration | ░░░░░░░░░░░░ 0% | - |
-| Documentation | ████░░░░░░░░ 33% | 28/01/2026 |
+| Documentation | ████░░░░░░░░ 33% | 26/02/2026 |
 
 ---
 
 ## 📝 Changelog
 
-### [Version 0.1.0] - 28/01/2026
+### [Version 0.1.0] - 07/02/2026
 
 #### Ajouté (par Sofiane)
 - ✅ Moteur d'exécution sécurisé complet
@@ -150,11 +150,11 @@ flake8 src/ tests/
 ## 👨‍🎓 Équipe
 
 - **Sofiane** - Module 1: Moteur d'exécution ✅
-- **Membre 2** - Module 2: Debugging ⏳
-- **Membre 3** - Module 3: Collaboration ⏳
-- **Membre 4** - Documentation & GitHub ⏳
+- **Faiçal** - Module 2: Debugging ⏳
+- **Ilyes 3** - Module 3: Collaboration ⏳
+- **Abderrahmane 4** - Documentation & GitHub ⏳
 
 ---
 
-**Dernière mise à jour:** 28/01/2026 par Sofiane  
+**Dernière mise à jour:** 07/02/2026 par Abderrahmane  
 **Projet:** Mini-projet Python Debugging Collaboratif - G01  
