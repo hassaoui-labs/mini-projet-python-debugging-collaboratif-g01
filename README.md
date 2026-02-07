@@ -1,6 +1,6 @@
 ## Mini-projet-python-debugging-collaboratif- Groupe 01
 
-## Enoncé de projet.(/Project_Statement.md)
+## [Enoncé de projet](/Project_Statement.md)
 
 📌 Contexte : 
 Mini-projet collaboratif réalisé dans le cadre du Doctorat – Troisième Cycle, visant à approfondir les techniques de debugging Python et le travail collaboratif à l’aide des outils DevOps.
