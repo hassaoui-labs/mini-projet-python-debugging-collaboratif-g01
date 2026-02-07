@@ -17,10 +17,10 @@
 
 | Module | Progression | Dernière mise à jour |
 |--------|------------|---------------------|
-| Moteur d'exécution | ████████████ 100% | 28/01/2026 - Sofiane |
-| Module debugging | ████████████ 100% | 07/02/2026 |
-| Collaboration | ████████████ 100% | 07/02/2026 |
-| Documentation | ████████████ 100% | 07/02/2026 |
+| Moteur d'exécution | ████████████ 100% ✅ | 28/01/2026 |
+| Module debugging | ████████████ 100% ✅ | 07/02/2026 |
+| Collaboration | ████████████ 100% ✅ | 07/02/2026 |
+| Documentation | ████████████ 100% ✅ | 07/02/2026 |
 ---
 - ✅ Moteur d'exécution sécurisé complet
 - ✅ Gestion des exceptions et timeout
@@ -32,12 +32,12 @@
 ---
 ## 📚 Documentation
 
-- **[Module 1 - Moteur d'Exécution](docs/1-Documantation-Execution_engine.md)** ✅
-- **[Module 2 - Debugger](docs/debugger_doc.md)** ⏳
-- **[Module 3 - Collaboration](docs/collaboration_doc.md)** ⏳
-- **[Guide de contribution](CONTRIBUTING.md)** ⏳
+- **[Module 1 - Moteur d'Exécution](docs/1-Documantation-Execution_engine.md)** 
+- **[Module 2 - Debugger](docs/debugger_doc.md)**
+- **[Module 3 - Collaboration](docs/collaboration_doc.md)**
+- **[Guide de contribution](CONTRIBUTING.md)**
 
 ---
 ## 📝 Changelog
 
-### [Version 0.1.0] - 07/02/2026
+### [Version 0.1.1] - 07/02/2026
