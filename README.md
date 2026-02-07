@@ -126,9 +126,9 @@ flake8 src/ tests/
 | Module | Progression | Dernière mise à jour |
 |--------|------------|---------------------|
 | Moteur d'exécution | ████████████ 100% | 28/01/2026 - Sofiane |
-| Module debugging | ██████░░░░░░ 50% | - |
-| Collaboration | ░░░░░░░░░░░░ 0% | - |
-| Documentation | █████░░░░░░░ 40% | 26/02/2026 |
+| Module debugging | ███████████ 100% | 07/02/2026 |
+| Collaboration | ░███████████ 100% | 07/02/2026 |
+| Documentation | ████████████ 100% | 07/02/2026 |
 
 ---
 
