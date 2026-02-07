@@ -1,10 +1,3 @@
-# PACK COMPLET - MODULE 1 : MOTEUR D'EXÉCUTION
-
-**Auteur** : Sofiane  
-**Projet** : Mini-Projet Python Debugging Collaboratif - G01  
-**Module** : 1 - Moteur d'Exécution Sécurisé  
-**Date** : 28/01/2026  
-
 ## 📁 Structure du projet
 
 ```
