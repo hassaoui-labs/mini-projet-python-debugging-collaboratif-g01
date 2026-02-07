@@ -50,16 +50,6 @@ flake8 src/ tests/
 ```
 
 ---
-
-## 📦 Livrables attendus
-
-- [x] ✅ **Dépôt GitHub structuré** (avec branches, commits réguliers)
-- [x] ✅ **Code source versionné** (Module 1 complété)
-- [ ] ⏳ **Wiki / Documentation projet**
-- [ ] ⏳ **Rapport technique PDF**
-- [ ] ⏳ **Journal de commits détaillé**
-
----
 ### Règles de base
 
 1. **Créer une branche** pour chaque nouvelle fonctionnalité
