@@ -126,9 +126,9 @@ flake8 src/ tests/
 | Module | Progression | Dernière mise à jour |
 |--------|------------|---------------------|
 | Moteur d'exécution | ████████████ 100% | 28/01/2026 - Sofiane |
-| Module debugging | ░░░░░░░░░░░░ 0% | - |
+| Module debugging | ██████░░░░░░ 50% | - |
 | Collaboration | ░░░░░░░░░░░░ 0% | - |
-| Documentation | ████░░░░░░░░ 33% | 26/02/2026 |
+| Documentation | █████░░░░░░░ 40% | 26/02/2026 |
 
 ---
 
@@ -150,9 +150,9 @@ flake8 src/ tests/
 ## 👨‍🎓 Équipe
 
 - **Sofiane** - Module 1: Moteur d'exécution ✅
-- **Faiçal** - Module 2: Debugging ⏳
-- **Ilyes** - Module 3: Collaboration ⏳
-- **Abderrahmane** - Documentation & GitHub ⏳
+- **Ilyes** - Module 2: Debugging ⏳
+- **Faiçal** - Module 3: Collaboration ⏳
+- **Abderrahmane** - Module 4: Documentation & GitHub ⏳
 
 ---
 
