@@ -31,12 +31,14 @@ Développer une plateforme permettant aux utilisateurs de soumettre du code Pyth
 - Membre 3 : collaboration temps réel
 - Membre 4 : documentation & gestion GitHub
 
-📦 Livrables attendus : 
-         - Dépôt GitHub structuré (Code source versionné)
-         - Wiki Documentation projet 
-         - Rapport technique PDF
-         - Journal de commits
+📦 Livrables attendus :
+- Dépôt GitHub structuré (Code source versionné)
+- Wiki Documentation projet 
+- Rapport technique PDF
+- Journal de commits
+  
 ---
+
 **Projet:** Mini-projet Python Debugging Collaboratif - G01  
 ---
 ## 👨‍🎓 Équipe
@@ -46,6 +48,7 @@ Développer une plateforme permettant aux utilisateurs de soumettre du code Pyth
 - **Faiçal** - Module 3: Collaboration ⏳
 - **Abderrahmane** - Module 4: Documentation & GitHub ⏳
 ---
+
 **Dernière mise à jour:** 07/02/2026 par Abderrahmane  
 ---
 ## 📊 Progression du projet
