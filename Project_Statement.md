@@ -38,11 +38,3 @@ Développer une plateforme permettant aux utilisateurs de soumettre du code Pyth
 - Rapport technique PDF
 - Journal de commits
 
----
-## 📦 Livrables attendus
-
-- [x] ✅ **Dépôt GitHub structuré** (avec branches, commits réguliers)
-- [x] ✅ **Code source versionné** (Module 1 complété)
-- [ ] ⏳ **Wiki / Documentation projet**
-- [ ] ⏳ **Rapport technique PDF**
-- [ ] ⏳ **Journal de commits détaillé**
