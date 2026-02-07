@@ -9,9 +9,7 @@
 - **Ilyes** - Module 2: Debugging ⏳
 - **Faiçal** - Module 3: Collaboration ⏳
 - **Abderrahmane** - Module 4: Documentation & GitHub ⏳
----
 
-**Dernière mise à jour:** 07/02/2026 par Abderrahmane  
 ---
 ## 📊 Progression du projet
 
@@ -43,3 +41,7 @@
 ## 📝 Changelog
 
 ### [Version 1.0.0] - 07/02/2026
+
+---
+
+**Dernière mise à jour:** 07/02/2026 par Abderrahmane  
