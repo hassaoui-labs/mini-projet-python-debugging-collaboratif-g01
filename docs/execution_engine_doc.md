@@ -1,7 +1,7 @@
 # 📚 Documentation - Moteur d'Exécution Sécurisé
 
 **Auteur:** Sofiane  
-**Date:** 28/01/2026  
+
 **Module:** `execution_engine.py`
 
 ---
