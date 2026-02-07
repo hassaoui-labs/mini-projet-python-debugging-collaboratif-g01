@@ -151,8 +151,8 @@ flake8 src/ tests/
 
 - **Sofiane** - Module 1: Moteur d'exécution ✅
 - **Faiçal** - Module 2: Debugging ⏳
-- **Ilyes 3** - Module 3: Collaboration ⏳
-- **Abderrahmane 4** - Documentation & GitHub ⏳
+- **Ilyes** - Module 3: Collaboration ⏳
+- **Abderrahmane** - Documentation & GitHub ⏳
 
 ---
 
