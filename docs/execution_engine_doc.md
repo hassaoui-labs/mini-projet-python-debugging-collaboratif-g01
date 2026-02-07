@@ -232,3 +232,9 @@ Pour contribuer à ce module:
 - ✅ Tests unitaires complets
 
 ---
+
+## 📞 Contact
+
+**Auteur:** Sofiane  
+**Projet:** Mini-projet Python Debugging Collaboratif - G01  
+**Module:** Doctorat - Troisième Cycle

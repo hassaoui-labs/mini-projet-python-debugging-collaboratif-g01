@@ -2,8 +2,7 @@
 
 # 📚 Documentation - Collaboration Temps Réel
 
-**Auteur:** Faiçal Hima
-
+**Auteur:** Faiçal Hima 
 **Module:** `collaboration.py`
 
 ---

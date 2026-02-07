@@ -3,8 +3,7 @@
 
 # 📚 Documentation - Moteur de Debugging Avancé
 
-**Auteur:** Tarek Ilies Embarki
-
+**Auteur:** Tarek Ilies Embarki 
 **Module:** `debugger.py`
 
 ---
