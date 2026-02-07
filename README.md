@@ -30,6 +30,8 @@
 - ✅ Documentation complète
 - ✅ Exemples d'utilisation
 ---
+## 📂 [Structure du projet](/Project_Structure.md)
+---
 ## 📚 Documentation
 
 - **[Module 1 - Moteur d'Exécution](docs/1-Documantation-Execution_engine.md)** 
