@@ -1,0 +1,463 @@
+commit 3af331ac73c6a32645f7a766223ff799050ae818
+Merge: 9e119c4 c40c643
+Author: Tarek Ilies Embarki <embarki@estin.dz>
+Date:   Sat Feb 7 21:20:31 2026 +0100
+
+    Merge pull request #4 from hassaoui-labs/doc/documentation_gestion_GitHub_Abderrahmane
+    
+    Doc/documentation gestion git hub abderrahmane
+
+commit c40c643c3ce68f1334850c069c9e4f9f5ee3fd47
+Merge: cd5d110 9e119c4
+Author: Tarek Ilies Embarki <embarki@estin.dz>
+Date:   Sat Feb 7 21:20:17 2026 +0100
+
+    Merge branch 'main' into doc/documentation_gestion_GitHub_Abderrahmane
+
+commit cd5d110f2c4ca2974b04c945bb4fc66dca4e0a6d
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 21:07:39 2026 +0100
+
+    Update project_demo.ipynb
+
+commit 441e899546b6f148ee8a6a228ce6a0d6d845a80b
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 20:52:41 2026 +0100
+
+    Update Project_Statement.md
+
+commit 36b6f3469d9b3b211bbdf37b9119b7f3cb128ef4
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 20:15:13 2026 +0100
+
+    Update README.md
+
+commit c224766b81af138f2504b854f975ebcce76e2338
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 20:13:06 2026 +0100
+
+    Update project_demo.ipynb
+
+commit 259764ef8c605cc7be3e725212d110966d9106b7
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 20:07:36 2026 +0100
+
+    Add files via upload
+
+commit 97d2512caa2635423df32680522af3182f4838f6
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 19:38:22 2026 +0100
+
+    Delete src/utils.py
+
+commit d1175e3ea51b7f6f9769aa9c312b1e77fa9eaa9a
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 18:51:57 2026 +0100
+
+    Update README.md
+
+commit 1f402e34130ba6a3c1b97b96f42f16b0282c3689
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 18:49:48 2026 +0100
+
+    Update README.md
+
+commit 943dbca1360f416626585e28feabc2f26ca3f97f
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 18:48:08 2026 +0100
+
+    Update README.md
+
+commit 9047b1691f54e5857804087b1d8a01fa71114486
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 18:45:09 2026 +0100
+
+    Update and rename Structure du projet to Project_Structure.md
+
+commit 71ed29bc7aa1bd1744c2b7614040ba4fd5305f2a
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 18:43:43 2026 +0100
+
+    Rename Module-1.md to Structure du projet
+
+commit 0163c52ace3c88a1a8c0af27248127104bfac7c5
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 18:41:16 2026 +0100
+
+    Update README.md
+
+commit 087441a06a64d0b196065c3d30d35eb86c1f4c51
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 18:39:38 2026 +0100
+
+    Update Workflow_Git.md
+
+commit a7c78a4f956a35e5c1de8840b9454075dacd7a00
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 18:37:48 2026 +0100
+
+    Update execution_engine_doc.md
+
+commit 5e8a6099488db5da3e13ea3bf307e110d825af17
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 18:36:47 2026 +0100
+
+    Update README.md
+
+commit 414faed80c3e9c1cba0dbbfe595d3b1f923c12d5
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 18:34:03 2026 +0100
+
+    Update README.md
+
+commit f6092a437fdba2b82eb5a4a67bc34a5eb3c48711
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 18:31:26 2026 +0100
+
+    Update Workflow_Git.md
+
+commit a130fa374bd0795e8b0882d8ec85da77207beb7d
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 18:30:46 2026 +0100
+
+    Create Workflow_Git.md
+
+commit 7b04f8e1f12714068db4c6b73545bb6eb22f2940
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 18:28:57 2026 +0100
+
+    Update README.md
+
+commit 6f36e8022c421b994f6a9795fd58cf8b7df2308d
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 18:27:35 2026 +0100
+
+    Update README.md
+
+commit 9abbe5a63ccae2c83fae925a7fe362e453c139be
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 18:25:20 2026 +0100
+
+    Update Project_Statement.md
+
+commit 79fc52318e283939fe84f6dd64cd1c7bc3b8dd42
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 18:22:33 2026 +0100
+
+    Create Project_Statement.md
+
+commit 9d170d413ca4741980674d686a5550ea220c64f4
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 18:20:53 2026 +0100
+
+    Update README.md
+
+commit 008b6dd54f5a111258d6042733f78a5d27ce5abb
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 18:09:46 2026 +0100
+
+    Update execution_engine_doc.md
+
+commit 480415cb0297f21caadd7fe78a5183f6791b1add
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 18:09:25 2026 +0100
+
+    Update collaboration_doc.md
+
+commit 8f751b1bf37e70c0260f57f7a0210661a045038a
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 18:09:09 2026 +0100
+
+    Update debugger_doc.md
+
+commit 7233bd0f316edfe65704225dceb2574c682e24d0
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 18:08:17 2026 +0100
+
+    Update debugger_doc.md
+
+commit 5b45384ceaa6d4c452fda494bcf9b5f329bd5a18
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 18:07:38 2026 +0100
+
+    Update collaboration_doc.md
+
+commit 2d67f583863414dd0a77f6b6149bf5788c48d248
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 18:06:59 2026 +0100
+
+    Update execution_engine_doc.md
+
+commit 9945427c5a3d65b38e01b62eb29111407c1b92e6
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 17:57:12 2026 +0100
+
+    Update README.md
+
+commit da13add98fce02c3849ad3bfd51849060ed72b90
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 17:55:51 2026 +0100
+
+    Update README.md
+
+commit 84e0987d207679f63af0a368c93470100faa4eaa
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 17:52:42 2026 +0100
+
+    Update README.md
+
+commit ae69e30241f00451889406c1088e7a17716ea090
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 17:51:45 2026 +0100
+
+    Update README.md
+
+commit 9e119c4547fee275a30e1e1f31a0c3a9393ecd75
+Merge: 2dea305 7b2effa
+Author: Tarek Ilies Embarki <embarki@estin.dz>
+Date:   Sat Feb 7 15:50:49 2026 +0100
+
+    Merge pull request #3 from hassaoui-labs/feature/module-3-faical
+    
+    Feature/module 3 faical
+
+commit 2dea30569cd5221d51a0c4f08f2aeb4dd1d3c334
+Merge: 2a946ef 2ed9457
+Author: Tarek Ilies Embarki <embarki@estin.dz>
+Date:   Sat Feb 7 15:50:01 2026 +0100
+
+    Merge pull request #2 from hassaoui-labs/feature/module-debugger-ilies
+    
+    Feature/module debugger ilies
+    Corrected Requirements for python 3.12 compatibility
+    removed unused file
+
+commit 2ed94571623957793b163c9c35a227c11087b826
+Merge: 5315bc3 2a946ef
+Author: Tarek Ilies Embarki <embarki@estin.dz>
+Date:   Sat Feb 7 15:48:43 2026 +0100
+
+    Merge branch 'main' into feature/module-debugger-ilies
+
+commit f67a2560466efdbd0b2ff18435dd6b9fa276856f
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 14:46:03 2026 +0100
+
+    Update README.md
+
+commit fe18e43b7f4e725aeb628b6f14615d77ff91c6ca
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 14:38:04 2026 +0100
+
+    Update README.md
+
+commit 1d1986c7a0f22a73f9d5cc4158e61cf71186f1ef
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 14:36:21 2026 +0100
+
+    Update README.md
+
+commit 22f831341e48ae3d05df1926be6ab8ca9a98dd4c
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 14:31:13 2026 +0100
+
+    Update collaboration_doc.md
+
+commit 689a95e2dbc3a5fdb9db8d7d65ef8297f11a999f
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 14:30:14 2026 +0100
+
+    Update debugger_doc.md
+
+commit 8bc26e1f4d8622ae77b94f323db0035298cef605
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 14:28:31 2026 +0100
+
+    Update execution_engine_doc.md
+
+commit 534cb800805bfca35cea84eb368adaff4850f6ed
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 14:25:45 2026 +0100
+
+    Create collaboration_doc.md
+
+commit efcc0b7838be11ab982e44239bfd308049a26687
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 14:25:12 2026 +0100
+
+    Create debugger_doc.md
+
+commit de9d132542bde617cb9d7d4789e8822790affcf0
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 14:17:21 2026 +0100
+
+    Update Module-1.md
+
+commit 2a946efa522026602f22c9a5760cd2c7d2cf6611
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 14:14:34 2026 +0100
+
+    Rename execution_engine_doc.mdn_engine.md to execution_engine_doc.md
+
+commit 814bb8c427dc5e1fd46c40fd58adc4259e32260e
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 14:14:06 2026 +0100
+
+    Rename 1-Documantation-Execution_engine.md to execution_engine_doc.mdn_engine.md
+
+commit 1d62aeeee244edcb1be89f143c0a3f9b0a97e47a
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 14:08:23 2026 +0100
+
+    Update README.md
+
+commit 21bc1785b267526b092dfe16bd2b5379289d53b3
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 14:05:54 2026 +0100
+
+    Update README.md
+
+commit f621119dcb3454bc03d92e4697c4358bd5d7145e
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 14:03:04 2026 +0100
+
+    Update Module-1.md
+
+commit 4830676c4c52f28925c120b36427d6e5ee10d5ed
+Author: OUBEDLI-Proj <oubedli@estin.dz>
+Date:   Sat Feb 7 14:00:51 2026 +0100
+
+    Create Module-1.md
+
+commit 43f0641ce1e5f3d256714d717e29f5b44da3fcca
+Author: oubedli-dotcom <oubedli@estin.dz>
+Date:   Sat Feb 7 13:08:30 2026 +0100
+
+    Rename execution_engine_doc.md to 1-Documantation-Execution_engine.md
+
+commit 7b2effad9f764544ad217daecb6273de02753469
+Author: Tarek Ilies Embarki <embarki@estin.dz>
+Date:   Wed Feb 4 22:44:43 2026 +0100
+
+    Update test_collaboration.py
+
+commit 5315bc30c4476853030ad1ec5822b67bbc7217db
+Author: Tarek Ilies Embarki <embarki@estin.dz>
+Date:   Wed Feb 4 22:17:24 2026 +0100
+
+    Update requirements.txt
+
+commit 011671c870667bf1abf1eec57f0589af342a96f1
+Author: Tarek Ilies Embarki <embarki@estin.dz>
+Date:   Wed Feb 4 22:14:13 2026 +0100
+
+    Update requirements.txt
+
+commit b10e04785f6841cf26d64da37118b669398a5bbf
+Author: Tarek Ilies Embarki <embarki@estin.dz>
+Date:   Wed Feb 4 21:55:07 2026 +0100
+
+    Update requirements.txt
+    
+    Removed version to make sure PIP installs the latest compatible version with the execution environment python version (old fixed versions were not compatible with python 3.12)
+
+commit 8678d57e1d29b8a64063b6871e2c7f119f1eb847
+Author: Tarek Ilies Embarki <embarki@estin.dz>
+Date:   Wed Feb 4 21:47:15 2026 +0100
+
+    Create test_debugger.py
+
+commit 231fdc33ed4c25320c540d182a71809d2467296b
+Author: Tarek Ilies Embarki <embarki@estin.dz>
+Date:   Wed Feb 4 21:45:17 2026 +0100
+
+    Create debugger_doc.md
+
+commit 01a9ee95c8e9ddac2481833c74d2b8c421d18f7c
+Author: Tarek Ilies Embarki <embarki@estin.dz>
+Date:   Wed Feb 4 21:44:15 2026 +0100
+
+    Create example_debugger.py
+
+commit b2867cc810ea47615f589c01f4bec6f73ca8fb9a
+Author: Tarek Ilies Embarki <embarki@estin.dz>
+Date:   Wed Feb 4 21:42:30 2026 +0100
+
+    Delete src/utils.py
+    
+    Unused file
+
+commit e4d3cb5b9ee98f8b2dc2f656a9bfc324500be9bd
+Author: Tarek Ilies Embarki <embarki@estin.dz>
+Date:   Wed Feb 4 21:41:53 2026 +0100
+
+    Update debugger.py
+
+commit fc566ffb6681ecd700ae441a2b32f585078c81af
+Author: himafaical <hima@estin.dz>
+Date:   Wed Feb 4 18:10:17 2026 +0100
+
+    Delete src/collaboration
+
+commit 7bc2a8c9252c39543bda14085a98f53e3a762346
+Author: himafaical <hima@estin.dz>
+Date:   Wed Feb 4 18:09:59 2026 +0100
+
+    Update collaboration.py
+
+commit 52ed7fdf9e0281e351aa5f662436c57c85ea3285
+Author: himafaical <hima@estin.dz>
+Date:   Wed Feb 4 18:08:39 2026 +0100
+
+    Create test_collaboration.py
+
+commit 8a4cf1c8fc39c1b06a1008a122524f7e41bd3c1a
+Author: himafaical <hima@estin.dz>
+Date:   Wed Feb 4 18:06:09 2026 +0100
+
+    Create collaboration
+
+commit c2e2aa9222c20fcb225f293a32ca8ca59b3cfae9
+Author: himafaical <hima@estin.dz>
+Date:   Wed Feb 4 18:04:56 2026 +0100
+
+    Create example_collaboration.py
+
+commit 7a483df723ac9f0d759c01d5da1de3caee0eccda
+Author: himafaical <hima@estin.dz>
+Date:   Wed Feb 4 18:03:04 2026 +0100
+
+    Create collaboration_doc.md
+
+commit e70ad93f7b77364207b414664f0345dd3d43b18d
+Merge: 29cbac1 a6b0883
+Author: Chelghoum Sofiane <100867850+Sofiane-chelghoum@users.noreply.github.com>
+Date:   Wed Jan 28 03:06:46 2026 +0100
+
+    Merge pull request #1 from hassaoui-labs/feature/execution-engine-sofiane
+    
+    feat: execution-engine
+
+commit a6b08831d56533f8833815dde114a077688a3bfd
+Author: Chelghoum Sofiane <chelghoum.sofiane19@gmail.com>
+Date:   Wed Jan 28 03:03:41 2026 +0100
+
+    feat: execution-engine
+
+commit 29cbac11d69233a0d6cd811cbc00e46eca4cc935
+Author: hassaoui-labs <hassaoui@estin.dz>
+Date:   Mon Jan 19 22:20:17 2026 +0100
+
+    Update README.md
+
+commit a0eeb52cf96279cff4119692e7440b638e993878
+Author: hassaoui-labs <hassaoui@estin.dz>
+Date:   Mon Jan 19 22:09:12 2026 +0100
+
+    Update README.md
+
+commit 9dd2bc3787e244c57e2b97c6be1579b47e2041ca
+Author: hassaoui-labs <hassaoui@estin.dz>
+Date:   Mon Jan 19 21:58:36 2026 +0100
+
+    Initial commit
