@@ -35,7 +35,9 @@
 - **[Module 1 - Moteur d'Exécution](docs/1-Documantation-Execution_engine.md)** 
 - **[Module 2 - Debugger](docs/debugger_doc.md)**
 - **[Module 3 - Collaboration](docs/collaboration_doc.md)**
-- **[Démonstration du Projet Python - Debugging Collaboratif](project_demo.ipynb)**
+- **[Démonstration du Projet Python - Debugging Collaboratif :](project_demo.ipynb)**
+- **Ouvrir la démonstration interactive sur Google Colab 👉 : [Google Colab (interactive)](https://colab.research.google.com/github/hassaoui-labs/mini-projet-python-debugging-collaboratif-g01/blob/main/project_demo.ipynb)**
+
 
 ---
 ## 📝 Changelog
